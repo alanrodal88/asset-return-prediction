@@ -31,8 +31,8 @@ All predictors are lagged so that only information available before the forecast
 
 ## Files
 
-- [`analysis/ML_Return_Prediction.ipynb`](analysis/ML_Return_Prediction.ipynb) — full analysis and code
-- `paper/` — standalone research paper
+- [Research Paper](paper/asset_return_prediction.pdf)
+- [Full Analysis Notebook](analysis/ML_Return_Prediction.ipynb)
 
 ## Data
 
